@@ -1,2 +1,2 @@
-Esta es la captura de pantalla de la tarea #4 de Jorgenis Belén de Programación Web:
+Esta app es para registrar personas(Contactos), hace uso de API, para ingresarlos y almacenarlos en dicha API.
 ![Mi captura de Pantalla](micaptura.jpeg)
